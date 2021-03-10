@@ -7,6 +7,8 @@ Q-Learning
 
 
 comarison of algorithms:
+
+
 ![image](https://user-images.githubusercontent.com/44643180/110656605-0010d200-81b8-11eb-9591-eb5aec796681.png) ![image](https://user-images.githubusercontent.com/44643180/110657040-6bf33a80-81b8-11eb-9c36-8229f51ae67b.png) ![image](https://user-images.githubusercontent.com/44643180/110657063-701f5800-81b8-11eb-94c9-8ab6c28854c7.png)
 
 
